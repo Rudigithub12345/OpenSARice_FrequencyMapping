@@ -12,7 +12,8 @@ Fatchurrachman, F., Rudiyanto, R., Ginting, F.I., Che Soh, N., Mohd Shah, R., Go
 
 Interactive map:
 An interactive map of rice cropping frequency across South Asia (original data resolution) is available through the following Google Earth Engine app:
-xxxx
+https://ee-rudiyanto.projects.earthengine.app/view/opensarice
 
 Contact:
 📧 rudiyanto@umt.edu.my
+
